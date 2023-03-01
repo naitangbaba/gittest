@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hai,git");
         System.out.println("hai git");
         System.out.println("ha,git");
+        System.out.println("hot-fix");
     }
 
 }
