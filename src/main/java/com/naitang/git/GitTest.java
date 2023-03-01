@@ -8,6 +8,7 @@ public class GitTest {
 
     public static void main(String[] args) {
         System.out.println("hai,git");
+        System.out.println("hai git");
     }
 
 }
