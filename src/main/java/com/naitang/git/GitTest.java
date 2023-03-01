@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("hai git");
         System.out.println("ha,git");
         System.out.println("master-commit");
+        System.out.println("hot-fix");
     }
 
 }
